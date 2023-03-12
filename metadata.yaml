@@ -1,0 +1,28 @@
+_repo: Yesterday-s-doors_70251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burks, Arthur J.
+    birthdate: 1898
+    deathdate: 1974
+    gutenberg_agent_id: '33901'
+    url: http://www.gutenberg.org/2009/agents/33901
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_J._Burks
+description: ''
+gutenberg_issued: '2023-03-09'
+identifiers:
+  gutenberg: '70251'
+language: en
+pgterms:marc905: 20220520095206burks
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Yesterday's doors
+url: http://www.gutenberg.org/ebooks/70251
