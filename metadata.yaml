@@ -1,5 +1,8 @@
 _repo: Yesterday-s-doors_70251
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70251-h/images/cover.jpg
 creator:
   author:
     agent_name: Burks, Arthur J.
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33901
     wikipedia: https://en.wikipedia.org/wiki/Arthur_J._Burks
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70251#Yesterday-s-doors
 gutenberg_issued: '2023-03-09'
 identifiers:
   gutenberg: '70251'
